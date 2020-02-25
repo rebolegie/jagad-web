@@ -1,2 +1,2 @@
 # jagad-web
-Repository untuk menyimpan rencana pemograman
+Repository untuk menyimpan rencana belajar saya
